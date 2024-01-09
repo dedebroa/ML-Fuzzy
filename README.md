@@ -1,6 +1,9 @@
 <h1 align="center"> Algoritmos de Agrupamento Fuzzy C-Means Baseado no Kernel Gaussiano com Aprendizado Automático de Parâmetros de Largura </h1>
 
 <p align="center"> Projeto desenvolvido no Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE) e financiado pela Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) como parte do Programa Aristides Pacheco Leão de Estímulo a Vocações Científicas (PAPL) da Academia Brasileira de Ciências (ABC). </p>
-<p align="justify"> *Orientação*: Francisco de Assis Tenório de Carvalho </p>
-<p align="justify"> *Orientanda*: Débora van Pütten Chaves </p>
+<p align="justify"> **Orientação**: Francisco de Assis Tenório de Carvalho </p>
+<p align="justify"> **Orientanda**: Débora van Pütten Chaves </p>
+<p align="justify"> > **Status**: `EM ANDAMENTO`
 <hr>
+
+
