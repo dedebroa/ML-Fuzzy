@@ -8,6 +8,7 @@
 <hr>
 
 ### ORGANOGRAMA DO PROJETO
+<p align="center">
 | Etapa | Período | Planejamento |
 |-------------|-------------|-------------|
 | 1 | 08/01 - 11/01 | Estudo: Fuzzy C-Means|
@@ -15,5 +16,6 @@
 | 3 | 23/01 - 31/01 | SKFCM-opt |
 | 4 | 01/02 - 15/02 | Estudo da qualidade dos algoritmos |
 | 5 | 16/02 - 24/02 | Escrita do Relatório |
+</p>
 
 
