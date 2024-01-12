@@ -12,6 +12,8 @@ c. The range of the value for the fuzzifier of the fuzzy c-means algorithm: http
 3. Kernels
 a. Kernelized Non-Euclidean Relational Fuzzy c-Means Algorithm: https://ieeexplore.ieee.org/abstract/document/1452429
 b. Kernel-based fuzzy clustering and fuzzy clustering: A comparative experimental study: https://sciencedirect.com/science/article/pii/S016501140900459X
+c. The Effect of Kernelization in Relational Fuzzy Clustering: https://d-nb.info/982458738/34#page=60 (P.60)
+4. Streched Kernel: https://link.springer.com/chapter/10.1007/978-3-642-40705-5_5
 
 Extra: Prof. Dr. Daniel Cassar me enviou 
 a. Aprendizado de máquina: uma abordagem estatístic: http://www.rizbicki.ufscar.br/ame/
