@@ -4,7 +4,11 @@
 https://www.sciencedirect.com/topics/computer-science/clustering-structure
 https://www.ic.unicamp.br/~reltech/2005/05-03.pdf
 
+2. C-Means & Fuzzy C-Means
+https://builtin.com/data-science/c-means
+Fuzziness parameter selection in fuzzy c-means: The perspective of cluster validation: https://link.springer.com/article/10.1007/s11432-014-5146-0
+The range of the value for the fuzzifier of the fuzzy c-means algorithm: https://www.sciencedirect.com/science/article/pii/S0167865512002711
 
-2. Fuzzy C-Means
-
+3. Kernels
+Kernelized Non-Euclidean Relational Fuzzy c-Means Algorithm: https://ieeexplore.ieee.org/abstract/document/1452429
 
