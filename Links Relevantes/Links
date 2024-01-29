@@ -18,3 +18,13 @@ c. The Effect of Kernelization in Relational Fuzzy Clustering: https://d-nb.info
 Extra: Prof. Dr. Daniel Cassar me enviou 
 a. Aprendizado de máquina: uma abordagem estatístic: http://www.rizbicki.ufscar.br/ame/
 b. The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+c. Documento de clusterização da turma do ano passado (baixado)
+
+Biblioteca Fuzzy C-Means
+<br> Link: https://fuzzy-c-means.readthedocs.io/en/latest/reference/#fcmeans.main.FCM.partition_coefficient
+<br> Artigo com equações: https://doi.org/10.1016/0098-3004(84)90020-7
+<br> GitHub:https://github.com/omadson/fuzzy-c-means/blob/master/fcmeans/main.py 
+
+Iris
+<br>SKLEARN: https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+<br>UCI: https://archive.ics.uci.edu/dataset/53/iris
