@@ -4,7 +4,7 @@
 <p align="justify"><strong>Orientação</strong>: Francisco de Assis Tenório de Carvalho </p>
 <p align="justify"><strong>Orientanda</strong>: Débora van Pütten Chaves </p>
 <p align="justify"><strong>Palavras-chave</strong>: 	bandwidth parameter, fuzzy c-means, fuzzy clustering, gaussian kernel functions.
-<p align="justify"><strong>Status</strong>:: Em desenvolvimento :warning:
+<p align="justify"><strong>Status</strong>:: Finalizado :warning:
 <hr>
 
 ### ORGANOGRAMA DO PROJETO
